@@ -21,6 +21,7 @@ Now , we are going to install the plugins .
 
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0662be24-a2d7-4c77-914b-2e06a3effbc0)
 
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0f7dc5c1-353d-4100-bf72-05b6a7ce0cf3)
 
 
 # 
