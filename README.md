@@ -26,4 +26,17 @@ Now , we are going to install the plugins .
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/883fd0c5-e400-44ae-b60c-3e1ab24881cb)
 
 
-# 
+# Writing the Dockerfile
+We are going to dockerzise the source code .
+```bash
+FROM nginx:1.21.1
+LABEL maintainer="Christ BAGAMBOULA"
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y curl && \
+    apt-get install -y git
+RUN rm -Rf /usr/share/nginx/html/*
+RUN git clone https://github.com/diranetafen/static-website-example.git /usr/share/nginx/html
+CMD nginx -g 'daemon off;'
+````
+
