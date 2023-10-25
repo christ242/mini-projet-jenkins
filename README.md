@@ -8,6 +8,5 @@ bash ````
 ````
 Now I'm going to implement the jenkins servers and access it .
 
-![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/9fccb2d4-8b03-42a4-bdcb-aef71a3c8228)
-
+![alt text](![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/adfe98d5-d9eb-4fd6-8b4f-685a8b0ff74d)
 
