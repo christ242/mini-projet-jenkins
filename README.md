@@ -7,7 +7,7 @@ bash ````
 
 ````
 Now I'm going to implement the jenkins servers and access it .
-bash ````
+
 ![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/9fccb2d4-8b03-42a4-bdcb-aef71a3c8228)
 
-```
+
