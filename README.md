@@ -163,4 +163,7 @@ pipeline {
  We first are going to create a pipeline project named "mini-projet-jenkins" as shown below 
  ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/4afb0422-bce9-48e2-98a7-90f4cbbcde23)
 
+We specify the name of the github project and the paramters for deployment already specified in our jenksfile.
+
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/e6b5a72e-a6fb-44e6-89d5-6c09b3d25226)
 
