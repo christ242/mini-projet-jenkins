@@ -161,6 +161,6 @@ pipeline {
  ## Configuration of Jenkins Tools
 
  We first are going to create a pipeline project named "mini-projet-jenkins" as shown below 
- ![alt text]([image]![image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/4afb0422-bce9-48e2-98a7-90f4cbbcde23)
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/4afb0422-bce9-48e2-98a7-90f4cbbcde23)
 
 
