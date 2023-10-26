@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-## This project deals with a mini project carrying out by me during my participation to the devops's bootcamp by Eaytraining.
-=======
-# mini-projet-jenkins
-This project deals with the work I did as a student at devops's bootcam from eazytraining .
+
+
 # Objectives
 The aim of this project is to set up a CICD pipeline through jenkins tools . In order to achieve this project , we first need get the source code , dockerzise it and build a pipeline CICD for the built image .
 
