@@ -174,4 +174,8 @@ We specify the name of the github project and the paramters for deployment alrea
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/a05ca33c-4b4a-43f7-ab18-0f217eeedd1b)
 
 
+We checked the github hook trigger in order to allow jenkins going to check the github containing the source code as soon as there's a modification . The pipeline will launched itsef as soon we commit something .
+
+
+
 
