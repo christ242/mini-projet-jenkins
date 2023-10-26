@@ -167,3 +167,7 @@ We specify the name of the github project and the paramters for deployment alrea
 
  ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/e6b5a72e-a6fb-44e6-89d5-6c09b3d25226)
 
+ The github project name has be specified too , like this :
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/f337f45c-537b-49eb-9630-56e3386c4c95)
+
+
