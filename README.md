@@ -178,7 +178,12 @@ We checked the github hook trigger in order to allow jenkins going to check the 
 
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/1869557f-c467-40bf-aa94-9a9db2def176)
 
-On the image above , the specify to jenkins we are managing pipeline project and have provided the repo source code for git .
+On the image above , the specify to jenkins we are managing pipeline project and have provided the repo source code for git . No need to specify the credentials because we are working on a public project. We need the project to be runned on main branch .
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/670f12d8-49f8-41a3-9011-664fff92cbcb)
+
+
+
 
 
 
