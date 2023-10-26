@@ -188,7 +188,8 @@ On the image above , the specify to jenkins we are managing pipeline project and
 
 # Configuring the slack library 
 
-![alt text]([image)![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0abf54b3-49bc-4383-9b44-34670c9ed903)
+![alt text]([image)![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/27894be4-0235-4b97-b8c7-d7b72d4a6460)
+
 
 
 
