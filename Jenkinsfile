@@ -1,3 +1,4 @@
+/* import shared library */
 @Library('kitepoye-slack-share-library')_
 
 pipeline {
