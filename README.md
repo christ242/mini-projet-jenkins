@@ -190,6 +190,19 @@ On the image above , the specify to jenkins we are managing pipeline project and
 
 ![alt text]([image)![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/27894be4-0235-4b97-b8c7-d7b72d4a6460)
 
+# Create secret for dockerhub
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0c364872-f9a4-46ed-8af1-ab8f96e66a74)
+
+# Installing blueocean plugin
+We install blue ocean plugin in order to have a better view of the pipeline scheme.
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/7cf879a1-9ced-4698-8871-05cb5b96b7db)
+
+# Viewing the jenkins tool with blue ocean tool
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/391c757a-97e7-4256-85a2-d5bb3fbfb2f1)
+
+
+
 
 
 
