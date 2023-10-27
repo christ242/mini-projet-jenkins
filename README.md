@@ -208,6 +208,7 @@ We can watch the docker container run for the eazylab API like this :
 
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/1dff5fee-af5d-4b9d-9627-6c2c1923d9aa)
 
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/f1061c62-da15-4633-8f3d-e71dde03987b)
 
 
 
