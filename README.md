@@ -273,6 +273,8 @@ f2b39afb2655   eazytraining/eazylabs:latest    "python3 src/main.py"    4 hours 
 
 # Watching the pushed image on dockerhub
 
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/9c439e9d-80d2-4825-b7a8-e8f8d371b9d6)
+
 
 
 
