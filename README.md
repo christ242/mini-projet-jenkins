@@ -198,6 +198,30 @@ We install blue ocean plugin in order to have a better view of the pipeline sche
 
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/391c757a-97e7-4256-85a2-d5bb3fbfb2f1)
 
+# Installing slack Notifier plugin
+We first install the slack notification plugin.
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/60dbebb7-898f-4585-be3c-ee5a00becc62)
+
+Then , we are going to configure it in order to get notification from slack
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/98291b00-14d4-4903-aeb9-b26cc67de660)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/cd58f961-2044-4abe-9d0d-58df9e8da4cf)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/7c5b2dcf-b123-4204-85ea-3bf41725b40f)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/53315ac0-1a9f-4162-b850-6284600ebaf5)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/98eac707-e87f-40e9-a2cd-4ac6239870c4)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/ad1df781-2436-401c-81bc-507d58ef881d)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/6fa1eaf0-417c-49d1-ae2e-b2888b8eff09)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0652226c-be79-4cb9-a962-a084bc3407d9)
+
+
+
 
 # Deploying the Eazylab API 
 We are going to deploy the eazylab machine for the deployment .
