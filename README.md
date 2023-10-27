@@ -199,6 +199,18 @@ We install blue ocean plugin in order to have a better view of the pipeline sche
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/391c757a-97e7-4256-85a2-d5bb3fbfb2f1)
 
 
+# Deploying the Eazylab API 
+We are going to deploy the eazylab machine for the deployment .
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/f33510fd-0bf4-4efb-a027-25e40ad612b7)
+
+We can watch the docker container run for the eazylab API like this :
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/1dff5fee-af5d-4b9d-9627-6c2c1923d9aa)
+
+
+
+
 
 
 
