@@ -220,6 +220,7 @@ Then , we are going to configure it in order to get notification from slack
 
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/0652226c-be79-4cb9-a962-a084bc3407d9)
 
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/ba32ada7-6ac3-4270-b65c-39e7d9999e48)
 
 
 
@@ -237,6 +238,39 @@ We can watch the docker container run for the eazylab API like this :
 
 # Launching the pipeline CICD
 After implementing everything , we are now going to launch the pipeline job .
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/00595d1c-49ee-4d73-b9f4-e533f39cfda7)
+
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/e771079f-f897-4c74-ba7d-6a896716c227)
+
+The job has been successful according to what we wrote in the jenksfile :
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/b0c9845f-ec5d-41ef-9bf7-0bd369f55897)
+
+# Watching the created container in the Easytraining API
+ bash'''
+[vagrant@jenkins mini-projet-jenkins]$ sudo docker ps -a
+CONTAINER ID   IMAGE                           COMMAND                  CREATED         STATUS         PORTS
+                                                                                           NAMES
+871eb4928404   kitepoye/staticwebsite:latest   "/docker-entrypoint.…"   5 minutes ago   Up 5 minutes   0.0.0.0:8090->80/tcp, :::8090->80/tcp
+                                                                                           preprod-kitepoye
+f2b39afb2655   eazytraining/eazylabs:latest    "python3 src/main.py"    4 hours ago     Up 4 hours     0.0.0.0:1993->1993/tcp, :::1993->1993/tcp
+                                                                                           eazylabs
+3571b257f10e   eazytraining/jenkins            "/bin/sh -c '/usr/sb…"   2 days ago      Up 2 days      22/tcp, 0.0.0.0:8080->8080/tcp, :::8080->8080/tcp, 80/tcp, 0.0.0.0:50000->50000/tcp, :::50000->50000/tcp, 0.0.0.0:443->8443/tcp, :::443->8443/tcp   jenkins-jenkins-1
+
+ '''
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/9acfe559-78ad-4351-b03b-2bf020fdaa94)
+
+ # Watching the successful message on slack
+
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/9c9666ae-99ea-41ff-9b7b-7ccb50d0e887)
+
+ # Watchin the application on prod and staging environment 
+
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/cb2eaf25-f259-4f33-8df3-50f59394d317)
+
+
+![alt text]([image]
+
 
 
 
