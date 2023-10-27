@@ -211,6 +211,8 @@ We can watch the docker container run for the eazylab API like this :
 ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/f1061c62-da15-4633-8f3d-e71dde03987b)
 
 
+# Launching the pipeline CICD
+After implementing everything , we are now going to launch the pipeline job .
 
 
 
