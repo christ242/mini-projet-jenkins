@@ -248,9 +248,17 @@ The job has been successful according to what we wrote in the jenksfile :
 
 # Watching the created container in the Easytraining API
  bash'''
-
+[vagrant@jenkins mini-projet-jenkins]$ docker ps -a
+CONTAINER ID   IMAGE                           COMMAND                  CREATED          STATUS          PORTS
+                                                                                             NAMES
+c1b7d144880f   kitepoye/staticwebsite:latest   "/docker-entrypoint.…"   58 seconds ago   Up 57 seconds   0.0.0.0:8090->80/tcp, :::8090->80/tcp
+                                                                                             preprod-kitepoye
+f2b39afb2655   eazytraining/eazylabs:latest    "python3 src/main.py"    4 hours ago      Up 4 hours      0.0.0.0:1993->1993/tcp, :::1993->1993/tcp
+                                                                                             eazylabs
+3571b257f10e   eazytraining/jenkins            "/bin/sh -c '/usr/sb…"   2 days ago       Up 2 days       22/tcp, 0.0.0.0:8080->8080/tcp, :::8080->8080/tcp, 80/tcp, 0.0.0.0:50000->50000/tcp, :::50000->50000/tcp, 0.0.0.0:443->8443/tcp, :::443->8443/tcp   jenkins-jenkins-1
  '''
- ![alt text]([image]!
+ ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/287c9e98-4208-4e6f-a0b3-f9c99acac6f1)
+
 
  # Watching the successful message on slack
 
@@ -261,7 +269,10 @@ The job has been successful according to what we wrote in the jenksfile :
  ![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/cb2eaf25-f259-4f33-8df3-50f59394d317)
 
 
-![alt text]([image]
+![alt text]([image]![image](https://github.com/christ242/mini-projet-jenkins/assets/60726494/05c18fb1-0ccc-47b5-9c9b-eccd8a478eb4)
+
+# Watching the pushed image on dockerhub
+
 
 
 
